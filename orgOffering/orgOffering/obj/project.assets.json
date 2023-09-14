@@ -2459,11 +2459,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\itstudent\\Desktop\\homework6\\orgOffering\\orgOffering\\orgOffering.csproj",
+      "projectUniqueName": "C:\\Users\\itstudent\\Documents\\GitHub\\homework6\\orgOffering\\orgOffering\\orgOffering.csproj",
       "projectName": "orgOffering",
-      "projectPath": "C:\\Users\\itstudent\\Desktop\\homework6\\orgOffering\\orgOffering\\orgOffering.csproj",
+      "projectPath": "C:\\Users\\itstudent\\Documents\\GitHub\\homework6\\orgOffering\\orgOffering\\orgOffering.csproj",
       "packagesPath": "C:\\Users\\itstudent\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\itstudent\\Desktop\\homework6\\orgOffering\\orgOffering\\obj\\",
+      "outputPath": "C:\\Users\\itstudent\\Documents\\GitHub\\homework6\\orgOffering\\orgOffering\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\itstudent\\AppData\\Roaming\\NuGet\\NuGet.Config",

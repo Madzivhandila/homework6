@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a89iPchDBnM4P/lNrKliGU1/RAftqa1zO1Ap+ZqOAx9h+7q14JyNhSGz4fqkd2QzCZAGOCfUDXi+Xf7uuHD9DQ==",
+  "dgSpecHash": "LwLhIUcNscpXBAsZwb6zAbenHz+QJXieNUN3W9rk0vl5SHdQP+e8AiT+QBbv5MIX3V9XMfB40zxORUURYU0NCw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\itstudent\\Desktop\\homework6\\orgOffering\\orgOffering\\orgOffering.csproj",
+  "projectFilePath": "C:\\Users\\itstudent\\Documents\\GitHub\\homework6\\orgOffering\\orgOffering\\orgOffering.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\itstudent\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\itstudent\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.19\\microsoft.aspnetcore.cryptography.internal.6.0.19.nupkg.sha512",
